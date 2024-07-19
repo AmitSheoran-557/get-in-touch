@@ -133,6 +133,7 @@ section {
     text-align: left;
     font-weight: 500;
     color: #392B75;
+    margin-bottom: 6px;
 }
 
 .text {
@@ -200,7 +201,6 @@ section {
     height: 50px;
     border-radius: 100px;
     background: #25DAC4;
-    margin-top: 18px;
     color: white;
     border: none;
     margin-right: 10px;
